@@ -21,7 +21,7 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies _feedback por correo electrónico_ a las estudiantes sobre su desempeño
 y llenar un
-_scorecard_ ([Typeform](https://laboratoria.typeform.com/JA-techmock))
+_scorecard_ ([Typeform](https://laboratoria.typeform.com/to/ZZt8toKM))
 con la evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
