@@ -11,6 +11,7 @@ contestando.
 Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
 más para todas las estudiantes. ¡Es un paso extremadamente esencial en este
 viaje y una experiencia que cambia la vida! 💛
+
 ## Sobre la dinámica
 
 La idea es simular un escenario de entrevista con nuestras estudiantes. Sabemos
@@ -27,6 +28,18 @@ Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Pued
 adaptarlo y aplicarlo como creas conveniente.
 
 Imaginamos que cada entrevista debería durar entre **45~60min**.
+
+## Fechas importantes
+
+* Kick off- 8 de noviembre del 2021
+* Sesión de feedback sobre perfil de Github - hasta el 19 de noviembre del 2021
+* Simulación de entrevista técnica - hasta el 26 de noviembre del 2021
+
+## Recursos
+
+* [Score card](https://laboratoria.typeform.com/to/ZZt8toKM)
+* [Template de correo para dar feedback directo a estudiante](https://docs.google.com/document/d/1ibel7ysRmBS81ghs_tAeQnksG2yWbxLW5W72By_rclc/edit?usp=sharing)
+* [Archivo de asignación de mentorxs y mentees](https://docs.google.com/spreadsheets/d/1A2lM5miWRB1CJWzvVtEByh_I6iyZOYRcrGPk0onOKz4/edit?usp=sharing)
 
 ## Contexto: Bootcamp
 
@@ -218,7 +231,7 @@ de proporcionar **información concreta** y, si es posible, **enlaces, recursos
 y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
 puntos que podría mejorar.
   
-2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/JA-techmock)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
+2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/to/ZZt8toKM)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
 
 ## Fin
 
@@ -230,3 +243,4 @@ el impacto que personas como tú tienen en su  crecimiento profesional es enorme
 Si tienes **alguna pregunta**, por favor, no dudes en ponerte en contacto con el equipo.
 
 **De parte de Laboratoria, nuestro más sincero agradecimiento 💛**.
+
