@@ -8,7 +8,7 @@ puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
 mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
 contestando.
 
-Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
+Muchas gracias por todo tu apoyo y ayuda, significa mucho para nosotras y aún
 más para todas las estudiantes. ¡Es un paso extremadamente esencial en este
 viaje y una experiencia que cambia la vida! 💛
 
@@ -41,6 +41,10 @@ Imaginamos que cada entrevista debería durar entre **45~60min**.
 * [Template de correo para dar feedback directo a estudiante](https://docs.google.com/document/d/1ibel7ysRmBS81ghs_tAeQnksG2yWbxLW5W72By_rclc/edit?usp=sharing)
 * [Archivo de asignación de mentorxs y mentees](https://docs.google.com/spreadsheets/d/1A2lM5miWRB1CJWzvVtEByh_I6iyZOYRcrGPk0onOKz4/edit?usp=sharing)
 
+## Contacto
+
+Si tienes alguna pregunta, por favor, no dudes en ponerte en contacto con Lina Camargo en el correo electrónico [lina@laboratoria.la](mailto:lina@laboratoria.la)
+
 ## Contexto: Bootcamp
 
 Los proyectos que desarrollan siguen un plan abierto y están en GitHub. El
@@ -55,7 +59,7 @@ por los siguientes temas:
 - JavaScript y asíncronía
 - Node.js
 - Pruebas unitarias
-- React
+- React / Angular
 
 Ahora bien, en nuestro modelo optamos por que el aprendizaje sea _self-paced._
 Eso quiere decir que intentamos que cada una de las estudiantes
@@ -109,7 +113,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
 
   Aquí ya comienza la entrevista y lo primero es dejarle claro a la
   candidata cuál será la estrucutura de este espacio, por ejemplo:
-  
+
   > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
   un poco sobre tí y por qué estás postulando a este puesto, luego te haré una
   serie de preguntas conceptuales, y por último resolveremos 1 o 2 ejercicios de
@@ -131,7 +135,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   Este es un buen punto para identificar el nivel de confianza con la que llega
   la candidata y te puede ayudar a ti a decidir la dificultad y tipo de
   ejercicio que quieres proponerle.
-  
+
   Al momento de hacer las preguntas, recuerda vocalizar los términos con
   claridad, y si es necesario compartir tu pantalla con la pregunta, para que
   quede claro el término por el cual se le está preguntando.
@@ -151,13 +155,13 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   La recomendación es comenzar con algún ejercicio rápido y fácil para darte
   una idea del nivel de la estudiante, y de ahí pasar a un segundo ejercicio
   que represente un desafío mayor.
-  
+
   Aquí puedes encontrar un
   [resumen de algunos ejercicios](../exercises/README.md) que puedes usar. Es
   importante que, dependiendo de tus primeras impresiones, intentes elegir
   ejercicios relevantes para el perfil, por lo cual te recomendamos
   familiarizarte con ellos antes de la entrevista.
-  
+
   Puntos importantes a tener en cuenta:
   - Dependiendo del desempeño en el primer ejercicio, evalúa si realmente tiene
     sentido hacer un segundo: pueden haber casos en que la estudiante se
@@ -203,7 +207,7 @@ como aquellos que necesitan mejorarse.
 Además, sería valioso que puedas darle tu apreciación sobre sus respuestas de
 la forma más objetiva posible, comunicándole el impacto que tiene dicho concepto
 o skill en su perfil o la importancia del mismo para su desempeño como Frontend
-Developer. 
+Developer.
 
 En caso existan aspectos que necesite reforzar, intenta colocar referencias a
 recursos relevantes a los que pueda sacarle valor rápidamente.
@@ -230,7 +234,7 @@ Vale la pena mantener siempre **un tono positivo** en la retroalimentación y tr
 de proporcionar **información concreta** y, si es posible, **enlaces, recursos
 y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
 puntos que podría mejorar.
-  
+
 2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/to/ZZt8toKM)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
 
 ## Fin
