@@ -37,6 +37,7 @@ Imaginamos que cada entrevista debería durar entre **45~60min**.
 
 ## Recursos
 
+* [Guia de califiación de Score card](https://docs.google.com/spreadsheets/d/1G42qKJduaca_VgsbDfXOm-6jyZs1o-AM_WibSD33Byc/edit#gid=2140475536)
 * [Score card](https://laboratoria.typeform.com/to/ZZt8toKM)
 * [Template de correo para dar feedback directo a estudiante](https://docs.google.com/document/d/1ibel7ysRmBS81ghs_tAeQnksG2yWbxLW5W72By_rclc/edit?usp=sharing)
 * [Archivo de asignación de mentorxs y mentees](https://docs.google.com/spreadsheets/d/1A2lM5miWRB1CJWzvVtEByh_I6iyZOYRcrGPk0onOKz4/edit?usp=sharing)
